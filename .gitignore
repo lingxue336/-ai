@@ -1,0 +1,9 @@
+/target/
+/data/
+/.idea/
+*.iml
+/tools/
+/models/
+/backup/
+/.qoder/
+*.zip
